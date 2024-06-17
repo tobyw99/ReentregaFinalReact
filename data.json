@@ -1,0 +1,79 @@
+{
+    "products": {
+      "remeras": {
+        "remera1": {
+          "title": "Remera Blanca",
+          "price": 24.99,
+          "description": "Remera de algodón en color blanco",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/remera-blanca.jpeg?alt=media&token=baaa8e6c-d12d-486d-9b3b-ab553d5d0183"
+        },
+        "remera2": {
+          "title": "Remera Negra",
+          "price": 22.99,
+          "description": "Remera de manga corta en color negro",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/remera-negra.jpeg?alt=media&token=83e8f882-36ec-492a-820c-ddbbe3941356"
+        },
+        "remera3": {
+          "title": "Remera Roja",
+          "price": 19.99,
+          "description": "Remera básica de algodón en color rojo",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/remera-roja.jpeg?alt=media&token=c381f229-31ce-4948-8ad2-12800599260c"
+        }
+      },
+      "jeans": {
+        "jean1": {
+          "title": "Jean Hombre Negro",
+          "price": 49.99,
+          "description": "Jean azul clásico, ajuste regular",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/jeans-hombre-negro.jpeg?alt=media&token=9f6616e5-dc8c-4c32-be43-4d703594c56f"
+        },
+        "jean2": {
+          "title": "Jean Azul Hombre",
+          "price": 54.99,
+          "description": "Jean negro ajustado, estilo moderno",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/jeans-hombre.jpeg?alt=media&token=81ccece0-caad-4f75-b7cc-be13e2587178"
+        },
+        "jean3": {
+          "title": "Jean Mujer",
+          "price": 59.99,
+          "description": "Jean desgastado con detalles rasgados",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/jeans-mujer.jpeg?alt=media&token=3e8c0341-1b4f-41ee-9a2a-2a17f63d50e2"
+        }
+      },
+      "gorras": {
+        "gorra1": {
+          "title": "Gorra Negra",
+          "price": 14.99,
+          "description": "Gorra de béisbol en color negro",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/gorra-negra.jpeg?alt=media&token=770fe012-8631-47fa-b6a9-fab94430585f"
+        },
+        "gorra2": {
+          "title": "Gorra Negra 2",
+          "price": 12.99,
+          "description": "Gorra de visera curva en color negro",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/gorra-negra-2.jpeg?alt=media&token=3d654d82-72da-41d8-bbc1-611a8e7da4de"
+        },
+        "gorra3": {
+          "title": "Gorra Roja Nike",
+          "price": 16.99,
+          "description": "Gorra deportiva en color rojo con logo Nike",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/gorra-roja-nike.jpeg?alt=media&token=843fa3c3-9424-407e-9a29-87b734e57d1e"
+        }
+      },
+      "camperas": {
+        "campera1": {
+          "title": "Campera de Cuero 1",
+          "price": 129.99,
+          "description": "Campera de cuero genuino en color negro",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/campera-cuero-1.jpeg?alt=media&token=cb1d595d-d4f6-4bf3-b218-4a57c171d6d6"
+        },
+        "campera2": {
+          "title": "Campera de Cuero 2",
+          "price": 99.99,
+          "description": "Campera de cuero genuino en color marrón",
+          "image": "https://firebasestorage.googleapis.com/v0/b/store-30b3c.appspot.com/o/campera-cuero-2.jpeg?alt=media&token=95352587-47c4-4d96-b304-481e99cef8e6"
+        }
+      }
+    }
+  }
+  
